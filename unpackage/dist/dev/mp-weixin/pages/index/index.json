@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "boxs": "/components/boxs/boxs",
+    "boxstwo": "/components/boxstwo/boxstwo"
+  }
+}

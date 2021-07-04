@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 静态资源引入 */
+/* @import url("/common/common.css"); */
+image{
+	display: block;
+	width: 30px;
+	height: 30px;
+}
+.one {
+	width: 300rpx;
+	height: 300rpx;
+	/* 编译判断css--H5端显示橙色-小程序端显示粉色 */
+
+
+
+
+	background-color: pink;
+}
+

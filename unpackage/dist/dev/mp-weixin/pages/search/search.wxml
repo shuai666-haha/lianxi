@@ -1,0 +1,1 @@
+<view><image src="../../static/home.png" mode></image><image src="/static/home.png" mode></image><image src="/static/home.png" mode></image><button type="warn">按钮</button><view data-event-opts="{{[['tap',[['show',['$event']]]]]}}" class="one" bindtap="__e"></view></view>

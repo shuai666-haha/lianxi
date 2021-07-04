@@ -1,0 +1,1 @@
+<view>兄弟组件2<button type="default" data-event-opts="{{[['tap',[['toclick',['$event']]]]]}}" bindtap="__e">向兄弟组件一传值按钮</button></view>
